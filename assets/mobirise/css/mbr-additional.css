@@ -1057,7 +1057,7 @@ a {
   color: #ffffff;
 }
 .cid-sFF75ZhH2d {
-  padding-top: 0rem;
+  padding-top: 2rem;
   padding-bottom: 2rem;
   background-image: url("../../../assets/images/vecteezy-green-background-images-browse-stock-photos-vectors-and-hd-34205416.jpg-1920x1097.jpg");
 }
@@ -1325,6 +1325,9 @@ a {
 .cid-uLQqrCXokM .list {
   list-style-type: none;
   padding: 0;
+}
+.cid-uLQqrCXokM .copyright > p {
+  text-align: center;
 }
 .cid-sFF0ciwnEL {
   z-index: 1000;
@@ -1814,6 +1817,9 @@ a {
 .cid-uLQqrCXokM .list {
   list-style-type: none;
   padding: 0;
+}
+.cid-uLQqrCXokM .copyright > p {
+  text-align: center;
 }
 .cid-sFF0ciwnEL {
   z-index: 1000;
@@ -2419,6 +2425,9 @@ a {
   list-style-type: none;
   padding: 0;
 }
+.cid-uLQqrCXokM .copyright > p {
+  text-align: center;
+}
 .cid-sFF0ciwnEL {
   z-index: 1000;
   width: 100%;
@@ -2888,6 +2897,9 @@ a {
 .cid-uLQqrCXokM .list {
   list-style-type: none;
   padding: 0;
+}
+.cid-uLQqrCXokM .copyright > p {
+  text-align: center;
 }
 .cid-sFF0ciwnEL {
   z-index: 1000;
@@ -3386,6 +3398,9 @@ a {
 .cid-uLQqrCXokM .list {
   list-style-type: none;
   padding: 0;
+}
+.cid-uLQqrCXokM .copyright > p {
+  text-align: center;
 }
 .cid-sFF0ciwnEL {
   z-index: 1000;
@@ -4045,6 +4060,9 @@ a {
   list-style-type: none;
   padding: 0;
 }
+.cid-uLQqrCXokM .copyright > p {
+  text-align: center;
+}
 .cid-sFF0ciwnEL {
   z-index: 1000;
   width: 100%;
@@ -4589,6 +4607,9 @@ a {
   list-style-type: none;
   padding: 0;
 }
+.cid-uLQqrCXokM .copyright > p {
+  text-align: center;
+}
 .cid-sFF0ciwnEL {
   z-index: 1000;
   width: 100%;
@@ -5087,6 +5108,9 @@ a {
 .cid-uLQqrCXokM .list {
   list-style-type: none;
   padding: 0;
+}
+.cid-uLQqrCXokM .copyright > p {
+  text-align: center;
 }
 .cid-sFF0ciwnEL {
   z-index: 1000;
@@ -6603,4 +6627,7 @@ a {
 .cid-uLQqrCXokM .list {
   list-style-type: none;
   padding: 0;
+}
+.cid-uLQqrCXokM .copyright > p {
+  text-align: center;
 }
